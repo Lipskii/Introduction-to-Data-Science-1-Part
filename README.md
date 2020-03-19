@@ -1,2 +1,1 @@
-# Introduction to Data Science 1
- 
+# Introduction-to-DS-I
